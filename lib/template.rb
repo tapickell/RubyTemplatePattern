@@ -1,0 +1,3 @@
+class BaseMonitor
+
+end
